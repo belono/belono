@@ -1,4 +1,4 @@
-### Hi there 👋
+### Arriba, abajo, al centro y pa' dentro 🍻
 
 <!--
 **belono/belono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![An image of @belono's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/belono)](https://holopin.io/@belono)
+
+Proud member of the [python-escpos](https://github.com/python-escpos/python-escpos) project.
